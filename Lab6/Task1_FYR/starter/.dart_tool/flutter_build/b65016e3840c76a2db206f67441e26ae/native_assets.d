@@ -1,0 +1,1 @@
+ D:\\Dev\\plant-reco_materials\\plant-reco\\starter\\.dart_tool\\flutter_build\\b65016e3840c76a2db206f67441e26ae\\native_assets.yaml: 
